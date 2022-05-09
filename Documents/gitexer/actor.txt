@@ -4,5 +4,11 @@ allu
 darshan
 sudeep
 paul
+<<<<<<< HEAD
 abc
 xyz
+revert msg
+=======
+abc
+>>>>>>> parent of 063d9b2 (Update actor.txt)
+hello
